@@ -28,6 +28,7 @@ Durante la carrera de desarrollo FullStack en Henry, tuve dos proyectos, uno ind
 
 > [El proyecto grupal](https://github.com/Proyecto-final-organization)
 
+Contacto: matucornetti@hotmail.com
 ##
 
 ***English***
@@ -60,3 +61,5 @@ During my FullStack development career at Henry, I had two projects, one individ
 > [The individual project](https://github.com/MateoCornetti/Pi-Pokemon)
 
 > [The group proyect](https://github.com/Proyecto-final-organization)
+>
+> Contact: matucornetti@hotmail.com
